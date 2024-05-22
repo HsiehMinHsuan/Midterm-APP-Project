@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">assignment</string>
+
+    <integer-array name="image_list">
+        <item>@drawable/player1</item>
+        <item>@drawable/player2</item>
+        <item>@drawable/player3</item>
+        <item>@drawable/player4</item>
+        <item>@drawable/player5</item>
+        <item>@drawable/player6</item>
+        <item>@drawable/player7</item>
+        <item>@drawable/player8</item>
+        <item>@drawable/player9</item>
+        <item>@drawable/player10</item>
+        <item>@drawable/player11</item>
+        <item>@drawable/player12</item>
+    </integer-array>
+
+    <string-array name="name_list">
+        <item>Pheonix</item>
+        <item>Raze</item>
+        <item>Jett</item>
+        <item>Yoru</item>
+        <item>Neon</item>
+        <item>Reyna</item>
+        <item>Sage</item>
+        <item>Cypher</item>
+        <item>Chamber</item>
+        <item>Killjoy</item>
+        <item>Omen</item>
+        <item>Viper</item>
+    </string-array>
+</resources>
